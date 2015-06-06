@@ -1,0 +1,15 @@
+{
+  "name": "test-express",
+  "version": "1.0.0",
+  "description": "spin up instant express server hello-world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/homebase/local_repo/func.io/_funcs/ubuntu_express_test/.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
