@@ -11,5 +11,8 @@
     "url": "/Users/homebase/local_repo/func.io/_funcs/ubuntu_express_test/.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
